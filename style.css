@@ -1,0 +1,24 @@
+#myCarousel {
+  margin-top: 56px;
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(bg1.jpg);
+  height: 500px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(bg2.jpg);
+  height: 500px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(bg3.jpg);
+  height: 500px;
+}
