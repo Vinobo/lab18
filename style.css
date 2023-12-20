@@ -1,5 +1,7 @@
-#myCarousel {
-  margin-top: 56px;
+#myCarousel::before {
+  display: block;
+  content: '';
+  height: 56px;
 }
 
 .bg-img1 {
